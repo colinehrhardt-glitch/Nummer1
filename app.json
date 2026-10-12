@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Nummer1",
+    "slug": "nummer1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "web": {}
+  }
+}
