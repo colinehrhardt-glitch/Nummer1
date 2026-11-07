@@ -1,11 +1,4 @@
-# Nummer1
-
-## CAT-Trainer
-
-Im Ordner [`cat-trainer/`](cat-trainer/) liegt eine Übungs-App für den CAT der Bundeswehr
-(reines HTML/CSS/JS, läuft auf dem iPad). Anleitung: [cat-trainer/README.md](cat-trainer/README.md).
-
-## To-do-Liste mit Expo
+# Nummer1 – To-do-Liste mit Expo
 
 Eine einfache To-do-App mit Expo (SDK 57) und React Native:
 Aufgaben hinzufügen, abhaken und löschen.
@@ -13,7 +6,7 @@ Aufgaben hinzufügen, abhaken und löschen.
 Es werden nur `react-native` und `expo-status-bar` verwendet – die App läuft
 daher direkt in **Expo Go** (Handy) und **Expo Snack** (Browser).
 
-### Starten
+## Starten
 
 ```bash
 npm install
@@ -22,7 +15,7 @@ npx expo start
 
 Dann den QR-Code mit der Expo-Go-App scannen.
 
-### Dateien
+## Dateien
 
 - `App.js` – die komplette App (ausführlich kommentiert)
 - `app.json` – Expo-Einstellungen (Name, Ausrichtung …)
